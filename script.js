@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
         showSlide(currentIndex);
     }
 
-    setInterval(nextSlide, 1000); // Change image every 3 seconds
+    setInterval(nextSlide, 2600); // Change image every 3 seconds
 
     // Show the first slide when the page loads
     showSlide(currentIndex);
