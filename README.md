@@ -64,15 +64,15 @@
 - *(Opsional)* Local server untuk development (Live Server, XAMPP, dll)
 
 ### Clone Repository
-```bash
 git clone https://github.com/username/workshop_ui_dani.git
 cd workshop_ui_dani
-Menjalankan Proyek
-Opsi 1: Buka langsung di browser Karena ini adalah static site, Anda cukup membuka file HTML utama:
 
+### Menjalankan Proyek
+Buka langsung di browser Karena ini adalah static site, Anda cukup membuka file HTML utama:
 Plaintext
 Double-click file "homepage.html" atau "loginpage.html"
-📁 Struktur Proyek
+
+## 📁 Struktur Proyek
 Plaintext
 workshop_ui_dani/
 │
@@ -103,23 +103,25 @@ workshop_ui_dani/
     ├── camera logo/
     ├── footer/
     └── ...
-📸 Preview
-🏠 Homepage
+    
+## 📸 Preview
+
+### 🏠 Homepage
 Landing page dengan hero image & navigasi utama.
 
-🎨 Gallery
+### 🎨 Gallery
 Grid galeri dengan efek hover zoom untuk melihat preview karya.
 
-🛒 Detail & Checkout
+### 🛒 Detail & Checkout
 Halaman detail karya lengkap dengan informasi lisensi, serta flow pembayaran.
 
-🔐 Login
+### 🔐 Login
 Form autentikasi modern dengan slideshow animasi di sisi samping.
 
-👨‍💼 Admin Dashboard
+### 👨‍💼 Admin Dashboard
 Dashboard khusus admin dengan tema light/putih yang kontras dengan area user.
 
-🎨 Highlight Desain
+### 🎨 Highlight Desain
 Tipografi: Frank Ruhl Libre (elegant serif) + utility classes custom.
 
 Color Palette:
