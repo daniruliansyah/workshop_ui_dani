@@ -57,53 +57,20 @@
 
 ---
 
-## 📦 Instalasi
-
-### Prasyarat
-- Browser modern (Chrome, Firefox, Edge)
-- *(Opsional)* Local server untuk development (Live Server, XAMPP, dll)
+## 📦 Instalasi & Penggunaan
 
 ### Clone Repository
-git clone https://github.com/username/workshop_ui_dani.git
-cd workshop_ui_dani
+Salin kode berikut ke terminal atau Git Bash Anda:
 
-### Menjalankan Proyek
-Buka langsung di browser Karena ini adalah static site, Anda cukup membuka file HTML utama:
-Plaintext
-Double-click file "homepage.html" atau "loginpage.html"
+```bash
+# Clone repository ini
+git clone [https://github.com/username/workshop_ui_dani.git](https://github.com/username/workshop_ui_dani.git)
+```
+### Run Project
+📂 Buka folder 'workshop_ui_dani' di File Explorer
 
-## 📁 Struktur Proyek
-Plaintext
-workshop_ui_dani/
-│
-├── 📄 homepage.html              # Landing page
-├── 📄 dashboard.html             # Dashboard user
-├── 📄 gallerypage.html           # Grid galeri
-├── 📄 detailkatalog.html         # Detail karya
-├── 📄 pembelian.html             # Checkout
-├── 📄 payment-successful.html    # Konfirmasi bayar
-├── 📄 loginpage.html             # Autentikasi
-├── 📄 registerpage.html
-├── 📄 myprofilepage.html         # Profil & manajemen
-├── 📄 addpicturepage.html        # Upload karya
-├── 📄 purchasedpict.html         # Riwayat pembelian
-│
-├── 🎨 style.css                  # Styling global
-├── ⚙️ script.js                  # Interaksi JS
-│
-├── 👨‍💼 dashboard-admin.html       # Admin dashboard
-├── 📋 permission.html            # Permission request
-├── 📝 add-article.html           # Tambah artikel
-├── 📝 manage-article.html        # Kelola artikel
-├── 📰 articlespage.html          # Daftar artikel
-│
-└── 📂 images/                    # Aset gambar
-    ├── icon_png/
-    ├── gallery/
-    ├── camera logo/
-    ├── footer/
-    └── ...
-    
+👆 Double-click file 'homepage.html'
+
 ## 📸 Preview
 
 ### 🏠 Homepage
