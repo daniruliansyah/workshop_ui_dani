@@ -8,6 +8,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+![Image](https://github.com/user-attachments/assets/362ef574-7ffb-49f1-ba5e-6c5ab01f5225)
 *Dibuat untuk mata kuliah Workshop UI/UX — Designed & Developed by Dani Ruliansyah*
 
 [Demo](#-preview) • [Fitur](#-fitur-utama) • [Instalasi](#-instalasi)
@@ -75,15 +76,19 @@ git clone [https://github.com/username/workshop_ui_dani.git](https://github.com/
 
 ### 🏠 Homepage
 Landing page dengan hero image & navigasi utama.
+![Image](https://github.com/user-attachments/assets/362ef574-7ffb-49f1-ba5e-6c5ab01f5225)
 
 ### 🎨 Gallery
 Grid galeri dengan efek hover zoom untuk melihat preview karya.
+![Image](https://github.com/user-attachments/assets/75842086-1072-4419-ae8a-c220986b48d9) ![Image](https://github.com/user-attachments/assets/4a4c2766-8a41-454c-97a2-a274181f44cc)
 
 ### 🛒 Detail & Checkout
 Halaman detail karya lengkap dengan informasi lisensi, serta flow pembayaran.
+![Image](https://github.com/user-attachments/assets/8a16e968-5bfa-4982-acca-0a53c71ca7dc)
 
 ### 🔐 Login
 Form autentikasi modern dengan slideshow animasi di sisi samping.
+![Image](https://github.com/user-attachments/assets/46f2818b-da02-4645-a4f9-9d0bac3a38da)
 
 ### 👨‍💼 Admin Dashboard
 Dashboard khusus admin dengan tema light/putih yang kontras dengan area user.
